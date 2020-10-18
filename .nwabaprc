@@ -1,0 +1,11 @@
+{
+    "base": "./dist",
+    "conn_usestrictssl" : false,
+    "conn_server": "https://gwd.wingsii.wfp.org:8001/",
+    "conn_client" : "100",
+    "conn_user": "arorah",
+    "conn_password": "Wfpgwd@1",
+    "abap_package": "$TMP",
+    "abap_bsp": "ZVSCODE_APP",
+    "abap_bsp_text": "UI5 upload through VSCode App"
+}

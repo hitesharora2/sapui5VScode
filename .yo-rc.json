@@ -1,0 +1,16 @@
+{
+  "@sapui5/generator-sapui5-templates": {
+    "promptValues": {
+      "ApplicationTitle": "Worklist Demo",
+      "ApplicationDescription": "demo with promise calls",
+      "FLP": false,
+      "ServiceBaseUri": "https://services.odata.org/V3/Northwind/Northwind.svc/",
+      "DatasourceUrl": "/srv/",
+      "ObjectCollection": "Products",
+      "ObjectCollection_Key": "ProductID",
+      "Object_Identifier": "ProductName",
+      "Object_Number": "UnitPrice",
+      "Object_UnitOfMeasure": ""
+    }
+  }
+}
